@@ -1,4 +1,3 @@
-##Herkese Merhaba bugün kendim yağtığım qbcore için olan üzüm scriptini paylaşmak istedim
 
 ##Itemler
 
